@@ -31,6 +31,10 @@ Complete protein set downloaded from:
 
 <h2> wheat </h2>
 
+Complete protein set downloaded from:
+
+```ftp://ftp.ensemblgenomes.org/pub/plants/release-28/fasta/triticum_aestivum/pep/Triticum_aestivum.IWGSC1.0+popseq.28.pep.all.fa.gz```
+
 
 
 
