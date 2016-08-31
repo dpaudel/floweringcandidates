@@ -5,7 +5,7 @@ Candidate genes for flowering time
 
 From Higgins et al.
 
-Arabidopsis - downloaded from TAIR network - Flowering related proteins from Higgins 2010
+Arabidopsis -  downloaded from TAIR network - Flowering related proteins from Higgins 2010
 
 ```species/arabidopsis/proteins ```
 
